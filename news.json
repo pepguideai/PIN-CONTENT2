@@ -1,1 +1,48 @@
+[
+  {
+    "headline": "FDA Compounding Pharmacy Guidance Updates",
+    "category": "Regulatory",
+    "categoryColor": "7ee8a2",
+    "timeAgo": "Updated",
+    "isBreaking": true,
+    "url": "https://www.fda.gov/drugs/human-drug-compounding",
+    "summary": "FDA's evolving stance on compounded peptide therapeutics affects clinical access nationwide."
+  },
+  {
+    "headline": "Retatrutide Phase 3: 24% Weight Reduction at 48 Weeks",
+    "category": "Research",
+    "categoryColor": "e8b86d",
+    "timeAgo": "NEJM",
+    "isBreaking": false,
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2301972",
+    "summary": "Eli Lilly's triple-agonist retatrutide demonstrates unprecedented metabolic outcomes in obesity."
+  },
+  {
+    "headline": "BPC-157 Research: Mechanism & Tissue Repair Pathways",
+    "category": "Science",
+    "categoryColor": "7ee8a2",
+    "timeAgo": "PubMed",
+    "isBreaking": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=BPC-157",
+    "summary": "Comprehensive review of BPC-157's effects on tendon, ligament, and gastrointestinal healing."
+  },
+  {
+    "headline": "Tirzepatide vs Semaglutide: Comparative Efficacy Data",
+    "category": "Research",
+    "categoryColor": "fcd34d",
+    "timeAgo": "NEJM",
+    "isBreaking": false,
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2107519",
+    "summary": "Head-to-head comparison of leading GLP-1 receptor agonist therapies for type 2 diabetes."
+  },
+  {
+    "headline": "Epithalon and Telomere Length: Long-Term Studies",
+    "category": "Longevity",
+    "categoryColor": "c4b5fd",
+    "timeAgo": "PubMed",
+    "isBreaking": false,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=epithalon+telomere",
+    "summary": "Two decades of clinical observation on epithalon's effects on biological aging markers."
+  }
+]
 

@@ -1,48 +1,47 @@
 [
   {
-    "headline": "FDA Compounding Pharmacy Guidance Updates",
-    "category": "Regulatory",
-    "categoryColor": "7ee8a2",
-    "timeAgo": "Updated",
-    "isBreaking": true,
-    "url": "https://www.fda.gov/drugs/human-drug-compounding",
-    "summary": "FDA's evolving stance on compounded peptide therapeutics affects clinical access nationwide."
-  },
-  {
-    "headline": "Retatrutide Phase 3: 24% Weight Reduction at 48 Weeks",
+    "headline": "Quintuple Agonist for Obesity: One Drug, 5 Receptors",
     "category": "Research",
     "categoryColor": "e8b86d",
-    "timeAgo": "NEJM",
-    "isBreaking": false,
-    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2301972",
-    "summary": "Eli Lilly's triple-agonist retatrutide demonstrates unprecedented metabolic outcomes in obesity."
+    "timeAgo": "On The Pen",
+    "isBreaking": true,
+    "url": "https://www.onthepen.com/post/quintuple-agonist-for-obesity-one-drug-5-receptors",
+    "summary": "Eli Lilly–funded scientist set to present rodent data at the ADA meeting on a five-pathway compound that has already edged out retatrutide in rat weight loss."
   },
   {
-    "headline": "BPC-157 Research: Mechanism & Tissue Repair Pathways",
+    "headline": "Cancer Research Peptides 2026 Update — What's Changed",
     "category": "Science",
     "categoryColor": "7ee8a2",
-    "timeAgo": "PubMed",
+    "timeAgo": "Real Peptides",
     "isBreaking": false,
-    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=BPC-157",
-    "summary": "Comprehensive review of BPC-157's effects on tendon, ligament, and gastrointestinal healing."
+    "url": "https://www.realpeptides.co/cancer-research-peptides-2026-update-whats-changed/",
+    "summary": "Three oncology peptide classes driving 2026 — checkpoint mimetics, ADC linkers, dual GLP-1/GIP agonists. Engineering tricks pushed half-life from 2 to 8-14 hours."
   },
   {
-    "headline": "Tirzepatide vs Semaglutide: Comparative Efficacy Data",
-    "category": "Research",
-    "categoryColor": "fcd34d",
-    "timeAgo": "NEJM",
-    "isBreaking": false,
-    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2107519",
-    "summary": "Head-to-head comparison of leading GLP-1 receptor agonist therapies for type 2 diabetes."
-  },
-  {
-    "headline": "Epithalon and Telomere Length: Long-Term Studies",
+    "headline": "The 2026 Peptide Outlook: Five Next-Generation Therapeutics Reshaping Longevity",
     "category": "Longevity",
     "categoryColor": "c4b5fd",
-    "timeAgo": "PubMed",
+    "timeAgo": "The Peptide List",
     "isBreaking": false,
-    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=epithalon+telomere",
-    "summary": "Two decades of clinical observation on epithalon's effects on biological aging markers."
+    "url": "https://thepeptidelist.substack.com/p/the-2026-peptide-outlook-five-next",
+    "summary": "Profiles five next-gen peptide candidates targeting molecular hallmarks of aging itself rather than age-related diseases, with receptor-level mechanism breakdowns."
+  },
+  {
+    "headline": "Peptide Clinical Trials 2026: Research Pipeline Update",
+    "category": "Pipeline",
+    "categoryColor": "60a5fa",
+    "timeAgo": "Proxiva Labs",
+    "isBreaking": false,
+    "url": "https://proxivalabs.com/peptide-clinical-trials-2026/",
+    "summary": "150+ peptide drugs in active clinical development. TRIUMPH-1 retatrutide Phase 3 readouts expected H2 2026 and survodutide MASH results late 2026."
+  },
+  {
+    "headline": "Top Peptide Research Trends Shaping Health in 2026",
+    "category": "Trends",
+    "categoryColor": "fcd34d",
+    "timeAgo": "Primegen Labs",
+    "isBreaking": false,
+    "url": "https://primegenlabs.com/top-peptide-research-trends-health-therapeutics-2026/",
+    "summary": "Three fronts: delivery engineering, AI-driven design, precision characterization. Oral semaglutide and Luna18's 21-47% preclinical bioavailability resetting the threshold."
   }
 ]
-

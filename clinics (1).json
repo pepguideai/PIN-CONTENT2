@@ -1,0 +1,570 @@
+[
+  {
+    "initials": "ALC",
+    "name": "Anderson Longevity Clinic",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Carmel, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP-1",
+      "Skincare"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "60a5fa",
+      "f87171"
+    ],
+    "about": "Located in Carmel, IN. Offers trt, peptides, glp-1, skincare. Available in-person and via telehealth.",
+    "avatarColor": "7ee8a2",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "CFF",
+    "name": "The Center For Fully Functional Health",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Carmel, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "HRT",
+      "GLP-1",
+      "Skincare"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "c4b5fd",
+      "60a5fa",
+      "f87171"
+    ],
+    "about": "Located in Carmel, IN. Offers trt, peptides, hrt, glp-1, skincare. Available in-person and via telehealth.",
+    "avatarColor": "e8b86d",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "DI",
+    "name": "Defy of Indiana",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Carmel, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP-1",
+      "Skincare"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "60a5fa",
+      "f87171"
+    ],
+    "about": "Located in Carmel, IN. Offers trt, peptides, glp-1, skincare. Available in-person and via telehealth.",
+    "avatarColor": "c4b5fd",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "MHS",
+    "name": "Men's Health Solutions",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP-1",
+      "Skincare"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "60a5fa",
+      "f87171"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt, peptides, glp-1, skincare. Available in-person and via telehealth.",
+    "avatarColor": "60a5fa",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "PVC",
+    "name": "Premier Vitality Clinic",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "St. John, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP-1",
+      "Skincare"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "60a5fa",
+      "f87171"
+    ],
+    "about": "Located in St. John, IN. Offers trt, peptides, glp-1, skincare. Available in-person and via telehealth.",
+    "avatarColor": "fcd34d",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": "https://premiervitalityclinic.com/"
+  },
+  {
+    "initials": "GSM",
+    "name": "GEM Science Medical Clinic",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "Semaglutide",
+      "Tirzepatide"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "60a5fa",
+      "60a5fa"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt, peptides, semaglutide, tirzepatide. Available in-person and via telehealth.",
+    "avatarColor": "f87171",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": "https://gem.science/"
+  },
+  {
+    "initials": "TBW",
+    "name": "Total Body Wellness",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Brownsburg, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "Peptides",
+      "GLP",
+      "Skincare"
+    ],
+    "specialtyColors": [
+      "7ee8a2",
+      "7ee8a2",
+      "f87171"
+    ],
+    "about": "Located in Brownsburg, IN. Offers peptides, glp, skincare. Available in-person and via telehealth.",
+    "avatarColor": "5dcaa5",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "DOC",
+    "name": "Della Optimized Care",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP",
+      "HGH"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "7ee8a2",
+      "fcd34d"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt, peptides, glp, hgh. Available in-person and via telehealth.",
+    "avatarColor": "85b7eb",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": "https://www.deliaoptimizedcare.com/"
+  },
+  {
+    "initials": "LTC",
+    "name": "Low T Center Indianapolis",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Greenwood, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "HRT",
+      "Sermorelin",
+      "Ibutamoren"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "c4b5fd",
+      "fcd34d",
+      "fcd34d"
+    ],
+    "about": "Located in Greenwood, IN. Offers trt, peptides, hrt, sermorelin, ibutamoren. Available in-person and via telehealth.",
+    "avatarColor": "7ee8a2",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "RVI",
+    "name": "Renew Vitality Indianapolis",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "Sermorelin",
+      "Ibutamoren"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "fcd34d",
+      "fcd34d"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt, peptides, sermorelin, ibutamoren. Available in-person and via telehealth.",
+    "avatarColor": "e8b86d",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "RVB",
+    "name": "Renew Vitality Brownsburg",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Brownsburg, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP",
+      "HGH"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "7ee8a2",
+      "fcd34d"
+    ],
+    "about": "Located in Brownsburg, IN. Offers trt, peptides, glp, hgh. Available in-person and via telehealth.",
+    "avatarColor": "c4b5fd",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "GMH",
+    "name": "Gameday Men's Health Northeast Indy",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP",
+      "HGH"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "7ee8a2",
+      "fcd34d"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt, peptides, glp, hgh. Available in-person and via telehealth.",
+    "avatarColor": "60a5fa",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "GMH",
+    "name": "Gameday Men's Health South Fort Wayne",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Fort Wayne, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP",
+      "HGH"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "7ee8a2",
+      "fcd34d"
+    ],
+    "about": "Located in Fort Wayne, IN. Offers trt, peptides, glp, hgh. Available in-person and via telehealth.",
+    "avatarColor": "fcd34d",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "AMH",
+    "name": "Ageless Men's Health Fishers",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "NAD +",
+      "BPC 157"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "7ee8a2"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt, nad +, bpc 157. Available in-person and via telehealth.",
+    "avatarColor": "f87171",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "ATC",
+    "name": "Advanced TRT Clinic",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "GLP",
+      "HGH"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "fcd34d"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt, glp, hgh. Available in-person and via telehealth.",
+    "avatarColor": "5dcaa5",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "HFW",
+    "name": "H2W Fort Wayne",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Fort Wayne, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "HRT",
+      "GLP",
+      "HGH"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "c4b5fd",
+      "7ee8a2",
+      "fcd34d"
+    ],
+    "about": "Located in Fort Wayne, IN. Offers trt, peptides, hrt, glp, hgh. Available in-person and via telehealth.",
+    "avatarColor": "85b7eb",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "DWS",
+    "name": "Downtown Wellness Spa",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Fort Wayne, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "Peptides",
+      "GLP",
+      "HGH"
+    ],
+    "specialtyColors": [
+      "7ee8a2",
+      "7ee8a2",
+      "fcd34d"
+    ],
+    "about": "Located in Fort Wayne, IN. Offers peptides, glp, hgh. Available in-person and via telehealth.",
+    "avatarColor": "7ee8a2",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "PI",
+    "name": "The Piatek Institute",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Carmel, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "7ee8a2"
+    ],
+    "about": "Located in Carmel, IN. Offers trt, peptides, glp. Available in-person and via telehealth.",
+    "avatarColor": "e8b86d",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": "https://jaymd.com/"
+  },
+  {
+    "initials": "TA",
+    "name": "Testosterone ApexGlow",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Indianapolis, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT"
+    ],
+    "specialtyColors": [
+      "e8b86d"
+    ],
+    "about": "Located in Indianapolis, IN. Offers trt. Available in-person and via telehealth.",
+    "avatarColor": "c4b5fd",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": ""
+  },
+  {
+    "initials": "BPW",
+    "name": "Be Positive Wellness Clinic",
+    "rating": "Verified",
+    "visitType": "Both",
+    "coverage": "Martinsville, IN",
+    "consultFee": "Contact for pricing",
+    "specialties": [
+      "TRT",
+      "Peptides",
+      "GLP"
+    ],
+    "specialtyColors": [
+      "e8b86d",
+      "7ee8a2",
+      "7ee8a2"
+    ],
+    "about": "Located in Martinsville, IN. Offers trt, peptides, glp. Available in-person and via telehealth.",
+    "avatarColor": "60a5fa",
+    "isVerified": true,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "IN"
+    ],
+    "websiteURL": "https://www.bepositiveu.com/"
+  }
+]

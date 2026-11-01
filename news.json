@@ -1,10 +1,130 @@
 [
   {
+    "headline": "Lilly Lifts 2026 Outlook as Foundayo Pill Adds $184M in Q3",
+    "category": "Trends",
+    "categoryColor": "fcd34d",
+    "timeAgo": "Eli Lilly (SEC 8-K)",
+    "isBreaking": true,
+    "url": "https://www.sec.gov/Archives/edgar/data/0000059478/000005947826000104/q326lillysalesandearningsp.htm",
+    "summary": "Q3 revenue grew 39% to $24.4B, with Mounjaro at $10.7B and Zepbound at $5.35B. Lilly raised its full-year revenue guidance to $91–92B.",
+    "publishedAt": "2026-10-29"
+  },
+  {
+    "headline": "HHS Will Let Pharmacies Compound Six Peptides, Including BPC-157",
+    "category": "Regulatory",
+    "categoryColor": "7ee8a2",
+    "timeAgo": "STAT",
+    "isBreaking": true,
+    "url": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/",
+    "summary": "An interim HHS policy uses enforcement discretion to cover compounding of the six peptides an FDA panel backed in July. The FDA is still weighing a final decision.",
+    "publishedAt": "2026-10-28"
+  },
+  {
+    "headline": "Retatrutide Beats Ozempic Head-to-Head in Type 2 Diabetes",
+    "category": "Research",
+    "categoryColor": "e8b86d",
+    "timeAgo": "AJMC",
+    "isBreaking": false,
+    "url": "https://www.ajmc.com/view/retatrutide-tops-semaglutide-on-a1c-weight-in-head-to-head-trial",
+    "summary": "In the 80-week TRANSCEND-T2D-2 trial, retatrutide cut A1C by 2.2 points versus 1.8 for semaglutide 2 mg. Weight loss reached 20.9%, against 9.4% on semaglutide.",
+    "publishedAt": "2026-10-28"
+  },
+  {
+    "headline": "CagriSema Shows 25% Average Weight Loss in Women",
+    "category": "Metabolic",
+    "categoryColor": "fcd34d",
+    "timeAgo": "CNBC",
+    "isBreaking": false,
+    "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+    "summary": "A post-hoc REDEFINE 1 analysis found about 25% weight loss in women at 68 weeks, assuming they stayed on treatment. Novo expects to launch CagriSema early next year.",
+    "publishedAt": "2026-10-20"
+  },
+  {
+    "headline": "Amylin Emerges as the Next Obesity Battleground for Lilly and Novo",
+    "category": "Pipeline",
+    "categoryColor": "60a5fa",
+    "timeAgo": "CNBC",
+    "isBreaking": false,
+    "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
+    "summary": "Eloralintide plus tirzepatide produced 23.3% weight loss at 48 weeks, versus 14.8% for tirzepatide alone, but more patients dropped out. Phase 3 trials are planned.",
+    "publishedAt": "2026-10-02"
+  },
+  {
+    "headline": "Survodutide Hits Both Goals in Obesity Plus Type 2 Diabetes Trial",
+    "category": "Research",
+    "categoryColor": "e8b86d",
+    "timeAgo": "HCPLive",
+    "isBreaking": false,
+    "url": "https://www.hcplive.com/view/synchronize-2-survodutide-outperforms-placebo-in-weight-loss-blood-sugar-control",
+    "summary": "In the 76-week SYNCHRONIZE-2 trial, which reported at EASD 2026, survodutide produced up to 13.1% weight loss versus 3.1% on placebo and lowered HbA1c by up to 1.21%.",
+    "publishedAt": "2026-10-01"
+  },
+  {
+    "headline": "FDA Warning Letters Target 'Research Use Only' Peptide Sellers",
+    "category": "Regulatory",
+    "categoryColor": "7ee8a2",
+    "timeAgo": "McDermott Will & Schulte",
+    "isBreaking": false,
+    "url": "https://www.mcdermottlaw.com/insights/federal-regulators-and-state-boards-crack-down-on-ruo-peptides/",
+    "summary": "In August the FDA warned five online sellers that research-use labels don't shield products marketed with dosing guides. State boards are tightening rules as well.",
+    "publishedAt": "2026-09-24"
+  },
+  {
+    "headline": "UK Becomes First in Europe to Authorise Orforglipron Pill",
+    "category": "Regulatory",
+    "categoryColor": "7ee8a2",
+    "timeAgo": "GOV.UK (MHRA)",
+    "isBreaking": false,
+    "url": "https://www.gov.uk/government/news/uk-first-in-europe-to-authorise-orforglipron-for-weight-management-and-type-2-diabetes",
+    "summary": "The MHRA cleared Lilly's once-daily GLP-1 tablet Foundayo for weight management and type 2 diabetes. It has no food or water timing rules, and NHS access awaits NICE review.",
+    "publishedAt": "2026-08-10"
+  },
+  {
+    "headline": "Oral Semaglutide Reduces Heavy Drinking Days in Phase 2 Trial",
+    "category": "Science",
+    "categoryColor": "7ee8a2",
+    "timeAgo": "American Psychiatric Association",
+    "isBreaking": false,
+    "url": "https://www.psychiatry.org/news-room/news-releases/new-research-oral-semaglutide-reduced-heavy-drinki",
+    "summary": "In 50 adults with alcohol use disorder, eight weeks of oral semaglutide cut heavy drinking days but did not reduce lab-measured craving. Larger trials are planned.",
+    "publishedAt": "2026-07-29"
+  },
+  {
+    "headline": "Retatrutide Succeeds in TRIUMPH-2 and TRIUMPH-3",
+    "category": "Research",
+    "categoryColor": "e8b86d",
+    "timeAgo": "Drug Topics",
+    "isBreaking": false,
+    "url": "https://www.drugtopics.com/view/retatrutide-delivers-weight-loss-a1c-improvements-in-additional-trials",
+    "summary": "Weight loss reached 20.8% in type 2 diabetes and 22.6% in people with severe obesity and heart disease. Lilly plans to file with the FDA in Q1 2027.",
+    "publishedAt": "2026-07-25"
+  },
+  {
+    "headline": "FDA Advisers Back BPC-157, TB-500 and Four More Peptides for Compounding",
+    "category": "Regulatory",
+    "categoryColor": "7ee8a2",
+    "timeAgo": "TIME",
+    "isBreaking": false,
+    "url": "https://time.com/article/2026/07/23/fda-committee-peptides/",
+    "summary": "Going against FDA staff, the compounding advisory panel recommended six of seven peptides for the 503A bulks list, with BPC-157 passing 8–6. The vote is non-binding.",
+    "publishedAt": "2026-07-23"
+  },
+  {
+    "headline": "Semaglutide Slowed Epigenetic Aging Clocks in Randomized Trial",
+    "category": "Longevity",
+    "categoryColor": "c4b5fd",
+    "timeAgo": "UC San Diego",
+    "isBreaking": false,
+    "url": "https://today.ucsd.edu/story/study-popular-glp-1-drug-may-slow-down-biological-aging",
+    "summary": "A Nature Communications analysis of a 32-week HIV trial found semaglutide slowed DunedinPACE aging by 9% compared with placebo. The authors caution that it does not reverse aging.",
+    "publishedAt": "2026-06-02"
+  },
+  {
     "headline": "Quintuple Agonist for Obesity: One Drug, 5 Receptors",
     "category": "Research",
     "categoryColor": "e8b86d",
     "timeAgo": "On The Pen",
-    "isBreaking": true,
+    "isBreaking": false,
     "url": "https://www.onthepen.com/post/quintuple-agonist-for-obesity-one-drug-5-receptors",
     "summary": "Eli Lilly–funded scientist set to present rodent data at the ADA meeting on a five-pathway compound that has already edged out retatrutide in rat weight loss."
   },

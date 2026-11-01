@@ -566,5 +566,497 @@
       "IN"
     ],
     "websiteURL": "https://www.bepositiveu.com/"
+  },
+  {
+    "initials": "H",
+    "name": "Hims",
+    "rating": "4.8",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "Varies",
+    "specialties": [
+      "Weight loss",
+      "Sexual health",
+      "Hair",
+      "TRT"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fda4af",
+      "e8b86d",
+      "60a5fa"
+    ],
+    "about": "Men's telehealth platform covering hair loss, sexual health, weight loss and low testosterone, with care mostly handled through online visits and messaging. Weight-loss care is sold as a monthly membership, and medication is billed separately.",
+    "avatarColor": "60a5fa",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.hims.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "RO",
+    "name": "Ro",
+    "rating": "4.8",
+    "visitType": "Telehealth",
+    "coverage": "50 states + DC",
+    "consultFee": "From $74/mo + meds",
+    "specialties": [
+      "GLP-1",
+      "Weight loss",
+      "Sexual health",
+      "Skin"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fcd34d",
+      "fda4af",
+      "f87171"
+    ],
+    "about": "The Ro Body membership ($39 first month, then $149/mo, or $74/mo prepaid annually) prescribes branded GLP-1s including the Wegovy pen and pill, Zepbound, Foundayo and Ozempic, with medication billed separately through insurance or cash pay. Ro also treats sexual health, fertility and skin conditions.",
+    "avatarColor": "fcd34d",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://ro.co",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "HE",
+    "name": "Hers",
+    "rating": "4.6",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "Varies",
+    "specialties": [
+      "Weight loss",
+      "Hormones",
+      "Hair",
+      "Mental health"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fda4af",
+      "e8b86d",
+      "c4b5fd"
+    ],
+    "about": "Women's telehealth arm of Hims & Hers offering weight loss, hair loss, perimenopause and menopause hormone treatment, mental health care and lab testing. Users message licensed providers in the app, and prescriptions are shipped to the home.",
+    "avatarColor": "fda4af",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.forhers.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "WW",
+    "name": "WeightWatchers Clinic",
+    "rating": "4.8",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "From $74/mo + meds",
+    "specialties": [
+      "GLP-1",
+      "Weight loss",
+      "Hormones"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fcd34d",
+      "fda4af"
+    ],
+    "about": "The Med+ membership pairs WeightWatchers Clinic prescribers with the WW program. Prescribers offer branded GLP-1s (Wegovy, Zepbound, Saxenda, Wegovy and Foundayo pills) as well as metformin and naltrexone/bupropion, and GLP-1 medication is billed separately from the membership.",
+    "avatarColor": "fcd34d",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.weightwatchers.com/us",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "N",
+    "name": "Noom Med",
+    "rating": "4.7",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "From $39/mo + meds",
+    "specialties": [
+      "GLP-1",
+      "Weight loss"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fcd34d"
+    ],
+    "about": "Noom Med adds prescription weight-loss medication, including GLP-1s, to Noom's psychology-based coaching app. The subscription fee does not include the cost of medication.",
+    "avatarColor": "fcd34d",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.noom.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "LMD",
+    "name": "LifeMD",
+    "rating": "4.9",
+    "visitType": "Telehealth",
+    "coverage": "50 states",
+    "consultFee": "$149/mo program",
+    "specialties": [
+      "GLP-1",
+      "Primary care",
+      "Hormones",
+      "Labs"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "7ee8a2",
+      "fda4af",
+      "60a5fa"
+    ],
+    "about": "A 50-state telehealth company whose weight program ($39 first month, then $149/mo) prescribes branded GLP-1s such as the Wegovy pen and pill, Zepbound vials and Foundayo, plus an oral Triple Therapy option. It also offers 24/7 primary and urgent care, men's and women's hormone care, and lab panels.",
+    "avatarColor": "7ee8a2",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://lifemd.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "OM",
+    "name": "Amazon One Medical",
+    "rating": "4.9",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "Varies",
+    "specialties": [
+      "Primary care",
+      "GLP-1",
+      "Labs"
+    ],
+    "specialtyColors": [
+      "7ee8a2",
+      "fcd34d",
+      "60a5fa"
+    ],
+    "about": "Amazon-owned primary care membership with in-office and remote visits, 24/7 on-demand virtual care and in-app messaging. In April 2026 it launched a GLP-1 weight-management program that is built into primary care and filled through Amazon Pharmacy.",
+    "avatarColor": "7ee8a2",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.onemedical.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "S",
+    "name": "Sesame",
+    "rating": "4.9",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "Visits from $34",
+    "specialties": [
+      "Primary care",
+      "Weight loss",
+      "Mental health",
+      "Skin"
+    ],
+    "specialtyColors": [
+      "7ee8a2",
+      "fcd34d",
+      "c4b5fd",
+      "f87171"
+    ],
+    "about": "A cash-pay marketplace where patients book video visits with independent clinicians at upfront prices, covering urgent care, prescription refills, mental health, skin and women's health. Its weight-loss care prescribes branded GLP-1s such as the Wegovy pill and pen, Zepbound and Mounjaro.",
+    "avatarColor": "7ee8a2",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://sesamecare.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "HM",
+    "name": "Henry Meds",
+    "rating": "—",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "From $129/mo",
+    "specialties": [
+      "GLP-1",
+      "TRT",
+      "Hormones",
+      "Sexual health"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "60a5fa",
+      "fda4af",
+      "fda4af"
+    ],
+    "about": "Henry Meds charges one flat monthly price that covers provider visits, compounded medication and supplies, with no insurance needed. Published plans include TRT and enclomiphene from $129/mo, women's HRT from $149/mo and compounded semaglutide from $179/mo, plus ED treatment.",
+    "avatarColor": "60a5fa",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://henrymeds.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "MH",
+    "name": "Mochi Health",
+    "rating": "4.9",
+    "visitType": "Telehealth",
+    "coverage": "50 states",
+    "consultFee": "From $49/mo + meds",
+    "specialties": [
+      "GLP-1",
+      "Weight loss",
+      "Longevity",
+      "Hair"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fcd34d",
+      "86efac",
+      "e8b86d"
+    ],
+    "about": "A flat-rate membership for obesity-medicine care: $79/mo, $49/mo on a 12-month plan, or $17/mo with insurance. It prescribes branded GLP-1s (Wegovy, Zepbound, Foundayo and others) or compounded semaglutide and tirzepatide, with medication billed separately, and also treats hair, skin, longevity and menopause.",
+    "avatarColor": "fcd34d",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://joinmochi.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "F",
+    "name": "Found",
+    "rating": "4.7",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "From $99/mo",
+    "specialties": [
+      "GLP-1",
+      "Weight loss"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fcd34d"
+    ],
+    "about": "Virtual weight care from obesity-trained clinicians, with compounded semaglutide and tirzepatide plans from $99/mo that include medication. It also offers branded GLP-1s, non-GLP-1 medications, a microdosing program and insurance-billed visits.",
+    "avatarColor": "fcd34d",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://joinfound.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "RM",
+    "name": "Remedy Meds",
+    "rating": "—",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "Varies",
+    "specialties": [
+      "GLP-1",
+      "Weight loss"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fcd34d"
+    ],
+    "about": "GLP-1 weight-loss subscription offering compounded semaglutide, tirzepatide and twice-weekly microdose plans, plus branded Ozempic and Zepbound at retail prices. Plans include clinician check-ins, refills every 28 days and a 365-day money-back guarantee.",
+    "avatarColor": "fcd34d",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.remedymeds.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "E",
+    "name": "Eden",
+    "rating": "—",
+    "visitType": "Telehealth",
+    "coverage": "50 states",
+    "consultFee": "GLP-1 from $99/mo",
+    "specialties": [
+      "GLP-1",
+      "Peptides",
+      "Longevity",
+      "Hair"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "c4b5fd",
+      "86efac",
+      "e8b86d"
+    ],
+    "about": "Cash-pay telehealth offering compounded semaglutide from $99/mo and branded GLP-1s, along with peptide and longevity treatments such as sermorelin, NAD+ and GHK-Cu. Plans bundle the visit, prescription and shipping, and HSA/FSA is accepted.",
+    "avatarColor": "c4b5fd",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.tryeden.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "HH",
+    "name": "Hone Health",
+    "rating": "—",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "From $25/mo + meds",
+    "specialties": [
+      "TRT",
+      "Hormones",
+      "Labs",
+      "Longevity"
+    ],
+    "specialtyColors": [
+      "60a5fa",
+      "fda4af",
+      "60a5fa",
+      "86efac"
+    ],
+    "about": "Hormone and longevity telehealth built around at-home biomarker testing, offering TRT, menopause HRT, weight loss, hair and sexual-health treatments. Memberships are Basic at $25/mo or Premium at $155/mo with physician consults, and medication costs extra.",
+    "avatarColor": "60a5fa",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://honehealth.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "MX",
+    "name": "Maximus",
+    "rating": "—",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "Varies",
+    "specialties": [
+      "TRT",
+      "GLP-1",
+      "Sexual health"
+    ],
+    "specialtyColors": [
+      "60a5fa",
+      "fcd34d",
+      "fda4af"
+    ],
+    "about": "Men's health telehealth focused on testosterone optimization protocols and GLP-1 weight loss, run on a self-pay membership model.",
+    "avatarColor": "60a5fa",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.maximustribe.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "FR",
+    "name": "Fridays",
+    "rating": "3.8",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "GLP-1 from $99/mo",
+    "specialties": [
+      "GLP-1",
+      "Weight loss",
+      "Longevity",
+      "TRT"
+    ],
+    "specialtyColors": [
+      "fcd34d",
+      "fcd34d",
+      "86efac",
+      "60a5fa"
+    ],
+    "about": "Telehealth clinic offering compounded tirzepatide and semaglutide (including microdosing) from $99/mo, plus branded Zepbound and Ozempic. It also offers longevity treatments (NAD+, sermorelin) and testosterone or enclomiphene, with Quest labs included.",
+    "avatarColor": "fcd34d",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://www.joinfridays.com",
+    "kind": "telehealth"
+  },
+  {
+    "initials": "MK",
+    "name": "Marek Health",
+    "rating": "—",
+    "visitType": "Telehealth",
+    "coverage": "Most states",
+    "consultFee": "$299 intake",
+    "specialties": [
+      "TRT",
+      "Hormones",
+      "Peptides",
+      "Labs"
+    ],
+    "specialtyColors": [
+      "60a5fa",
+      "fda4af",
+      "c4b5fd",
+      "60a5fa"
+    ],
+    "about": "Hormone-optimization clinic that pairs a health coach with a licensed provider, offering TRT, thyroid, peptides and tirzepatide based on custom lab panels (foundational panel from $450). It charges a one-time $299 intake with no subscription, and labs and treatments are paid separately.",
+    "avatarColor": "60a5fa",
+    "isVerified": false,
+    "latitude": null,
+    "longitude": null,
+    "telehealthStates": [
+      "all"
+    ],
+    "websiteURL": "https://marekhealth.com",
+    "kind": "telehealth"
   }
 ]

@@ -27,7 +27,9 @@
       "all"
     ],
     "websiteURL": "https://www.hims.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "Does not accept insurance. Brand-name GLP-1s are sold cash-pay."
   },
   {
     "initials": "RO",
@@ -57,7 +59,9 @@
       "all"
     ],
     "websiteURL": "https://ro.co",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "partial",
+    "insuranceNote": "Membership is cash. Checks your insurance for brand-name GLP-1s."
   },
   {
     "initials": "HE",
@@ -87,7 +91,9 @@
       "all"
     ],
     "websiteURL": "https://www.forhers.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "Treatments are cash-pay. Insurance isn't used."
   },
   {
     "initials": "WW",
@@ -115,7 +121,9 @@
       "all"
     ],
     "websiteURL": "https://www.weightwatchers.com/us",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "partial",
+    "insuranceNote": "Membership is cash. Care team seeks insurance coverage for medications."
   },
   {
     "initials": "N",
@@ -141,7 +149,9 @@
       "all"
     ],
     "websiteURL": "https://www.noom.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "partial",
+    "insuranceNote": "Insurance not required. Helps you use coverage for medications."
   },
   {
     "initials": "LMD",
@@ -171,7 +181,9 @@
       "all"
     ],
     "websiteURL": "https://lifemd.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "partial",
+    "insuranceNote": "Membership is cash. Some plans accepted for select services in some states."
   },
   {
     "initials": "OM",
@@ -199,7 +211,9 @@
       "all"
     ],
     "websiteURL": "https://www.onemedical.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "accepts",
+    "insuranceNote": "Bills insurance for scheduled visits. Membership fee isn't covered."
   },
   {
     "initials": "S",
@@ -229,7 +243,9 @@
       "all"
     ],
     "websiteURL": "https://sesamecare.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "partial",
+    "insuranceNote": "Visits are cash-pay. Weight-loss program helps with prior authorization."
   },
   {
     "initials": "HM",
@@ -259,7 +275,9 @@
       "all"
     ],
     "websiteURL": "https://henrymeds.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "No insurance. Compounded medications are cash-pay."
   },
   {
     "initials": "MH",
@@ -289,7 +307,9 @@
       "all"
     ],
     "websiteURL": "https://joinmochi.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "partial",
+    "insuranceNote": "Some plans cover visits. Prior authorization help for brand-name GLP-1s."
   },
   {
     "initials": "F",
@@ -315,7 +335,9 @@
       "all"
     ],
     "websiteURL": "https://joinfound.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "accepts",
+    "insuranceNote": "Accepts some plans for clinical visits. Varies by state."
   },
   {
     "initials": "RM",
@@ -341,7 +363,9 @@
       "all"
     ],
     "websiteURL": "https://www.remedymeds.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "No insurance. Compounded GLP-1s are cash-pay."
   },
   {
     "initials": "E",
@@ -371,7 +395,9 @@
       "all"
     ],
     "websiteURL": "https://www.tryeden.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "No insurance. Cash-pay."
   },
   {
     "initials": "HH",
@@ -401,7 +427,9 @@
       "all"
     ],
     "websiteURL": "https://honehealth.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "Services aren't covered by insurance."
   },
   {
     "initials": "MX",
@@ -459,7 +487,9 @@
       "all"
     ],
     "websiteURL": "https://www.joinfridays.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "Cash-pay. Does not accept insurance."
   },
   {
     "initials": "MK",
@@ -489,6 +519,8 @@
       "all"
     ],
     "websiteURL": "https://marekhealth.com",
-    "kind": "telehealth"
+    "kind": "telehealth",
+    "insurance": "cash",
+    "insuranceNote": "Direct-pay. Does not bill insurance."
   }
 ]
